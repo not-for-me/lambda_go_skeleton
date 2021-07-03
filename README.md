@@ -1,1 +1,1 @@
-# refresh_ecount_session_lambda
+# AWS Lambda skeleton for Go
